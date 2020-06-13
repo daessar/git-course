@@ -6,7 +6,7 @@ Este es el reporsitorio para el curso de git platzi.
 
 ## En este curso aprendí muchas cosas:
 
-- Iniciar el traking de un archivo.
+- Iniciar el tracking de un archivo.
 - Conocer el flujo de trabajo con git.
 - Buenas practicas.
 - Trabajar con ramas
